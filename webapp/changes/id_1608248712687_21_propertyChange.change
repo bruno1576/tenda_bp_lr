@@ -1,0 +1,41 @@
+{
+    "fileName": "id_1608248712687_21_propertyChange",
+    "fileType": "change",
+    "changeType": "propertyChange",
+    "moduleName": "",
+    "reference": "roffbr.tendabplr",
+    "packageName": "",
+    "content": {
+        "property": "liveMode",
+        "newValue": false
+    },
+    "selector": {
+        "id": "roffbr.tendabplr::sap.suite.ui.generic.template.ListReport.view.ListReport::BusinessPartnerSet--listReportFilter",
+        "idIsLocal": false,
+        "type": "sap.ui.comp.smartfilterbar.SmartFilterBar"
+    },
+    "layer": "VENDOR",
+    "texts": {},
+    "namespace": "apps/roffbr.tendabplr/changes/",
+    "projectId": "roffbr.tendabplr",
+    "creation": 1608248712687,
+    "originalLanguage": "",
+    "support": {
+        "generator": "changeUtils: SAPFioriTools",
+        "service": "",
+        "user": "",
+        "sapui5Version": "latest",
+        "sourceChangeFileName": "",
+        "compositeCommand": ""
+    },
+    "oDataInformation": {},
+    "dependentSelector": {},
+    "validAppVersions": {
+        "from": "1.0.0",
+        "to": "1.0.0",
+        "creation": "1.0.0"
+    },
+    "jsOnly": false,
+    "variantReference": "",
+    "appDescriptorChange": false
+}
